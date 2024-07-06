@@ -22,8 +22,7 @@ Clone this repository to your local machine using the following command:
 ### 2. Install dependencies
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
-Replace your-username with your GitHub username and repository-name with the name of this repository.
+git clone https://github.com/murphy031/chase-offers-with-log-in.git
 ```
 
 ### 3. Download ChromeDriver
