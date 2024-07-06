@@ -39,7 +39,7 @@ Replace your-username with your GitHub username and repository-name with the nam
 ## Running the script
 
 ### Things to know
-   - When script is first there might be a verify device window pop up. The script will sleep for 3 minutes (adjust as needed). You will be prompted to verify device via text message code. Once you enter the code manually you can wait on the scirpt to finish, or you can kill the script. You will then rerun the script.
+   - When the script is first run you might have a verify device window pop up. The script will sleep for 3 minutes (adjust as needed). You will be prompted to verify device via text message code. Once you enter the code manually you can wait on the script to finish, or you can kill the script. You will then rerun the script.
 
 ### 1. Navigate to the Project Directory
 
